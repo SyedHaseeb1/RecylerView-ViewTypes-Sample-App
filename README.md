@@ -1,0 +1,1 @@
+# RecylerView Types Sample App
